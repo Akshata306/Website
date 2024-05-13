@@ -1,0 +1,106 @@
+*{
+    color: #774936;
+    font-family: cursive;
+}
+body{
+    background-color: #F5EBE0;
+}
+.details{
+    margin-bottom:30px;
+    font-size: 20px;
+    background-color: #e6ccb2;
+    width: 1000px;
+    height: 65px;
+    border-radius: 5px;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+#information{
+    a{
+        margin-right: 60px;
+        margin-left: 30px;
+        text-decoration: none;
+        color: #e6ccb2;
+    }
+}
+input[type="Query"],textarea{
+    margin-left: 400px;
+    background-color: #f4f3ee;
+    color: #774936;
+    border-color: #774936;
+    padding-right: 150px;
+}
+#options{
+    margin-bottom:30px;
+    font-size: 20px;
+    background-color: #e6ccb2;
+    width: 1000px;
+    height: 65px;
+    border-radius: 5px;
+    padding-top: 30px;
+    padding-left: 20px;
+    margin-right: 200px;
+    a{
+        margin-right: 90px;
+        margin-left: 30px;
+        text-decoration: none;
+        color: #e6ccb2;
+    }
+}
+h3{
+    text-align: center;
+    height: 50px;
+    width: 500px;
+    background-color:#e6ccb2;
+    border-radius: 75px;
+    padding: 30px 10px 10px 10px;
+    margin: auto;
+    font-size: 20px;
+    text-decoration: underline;
+    text-decoration-color:#774936;
+}
+
+hr{
+    height: 4px;  
+            background-color: #774936;
+}
+
+#heading{
+    background-color: #e6ccb2;
+    text-decoration: underline
+}
+
+#submit{
+   button{
+    font-size: 20px;
+    height: 50px;
+    width: 100px;
+    border-radius: 80px;
+    margin-left: 500px;
+   }
+    
+}
+#navbar{
+    height: 65px;
+    background-color:#774936;
+    border-style: solid;
+    border-color: #e6ccb2;
+    border-width: 7px;
+    padding-top: 30px;
+    font-size: 20px;
+    ::placeholder{
+        background-color: #e6ccb2;
+    }
+    a{
+        margin-right: 130px;
+        text-decoration: none;
+        color: #e6ccb2;
+    }
+}
+#logo{
+    margin-left: 30px;
+}
+
+button{
+    background-color: #D6CCC2;
+}
